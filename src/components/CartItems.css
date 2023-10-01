@@ -1,0 +1,16 @@
+/* CartItems.css */
+
+/* Default styles for your component */
+
+@media (max-width: 768px) {
+    /* Media query for screens with a maximum width of 768px */
+    
+    /* Add styles specific to smaller screens here */
+    
+    .cart-item {
+      /* Example: Adjust the font size or padding for smaller screens */
+      font-size: 14px;
+      padding: 8px;
+    }
+  }
+  
